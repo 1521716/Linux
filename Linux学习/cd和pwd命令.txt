@@ -1,0 +1,13 @@
+1、cd命令
+	cd命令用于更改当前所在的工作目录
+	cd命令来自于英文：Change Directory
+	语法： cd [Linux路径]
+		cd命令无需选项，只有参数，表示要切换到哪个目录下
+		cd命令直接执行，不写参数，表示回到用户的HOME目录
+
+
+2、pwd命令
+	通过pwd命令，查看当前所在的工作目录
+	pwd来源：Print Work Directory
+	语法：pwd
+		pwd命令，无选项，无参数，直接输入pwd即可
